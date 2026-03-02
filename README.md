@@ -41,8 +41,3 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="matrix logo"  />
 </div>
-
-<div align="center">
-<img src="https://count.getloli.com/@kyucsec?name=kyucsec&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
-</div>
-
