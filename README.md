@@ -34,5 +34,5 @@
 </div>
 
 ###
-https://count.getloli.com/@kyucsec?name=kyucsec&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+<img src="https://count.getloli.com/@:kyucsec" alt=":booru-vp" />
 ###
