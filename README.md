@@ -34,9 +34,5 @@
 </div>
 
 ###
-
-<div align="center">
-    <img src=["https://github-readme-stats.vercel.app/api/top-langs?username=kyucsec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph](https://count.getloli.com/@kyucsec?name=kyucsec&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)"  />
-</div>
-
+https://count.getloli.com/@kyucsec?name=kyucsec&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
 ###
