@@ -33,6 +33,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="matrix logo"  />
 </div>
 
-###
-<img src="https://count.getloli.com/@:kyucsec" alt=":booru-vp" />
-###
+<div align="center">
+<img src="https://count.getloli.com/@:kyucsec" alt=":" />
+</div>
+
